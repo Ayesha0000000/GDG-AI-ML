@@ -1,0 +1,11 @@
+Day_4_FastAPI/.venv
+Day_4_FastAPI/__pycache__/
+Day_4_FastAPI/*.pyc
+
+.venv
+__pycache__/
+*.pyc
+
+.git
+.gitignore
+.env
