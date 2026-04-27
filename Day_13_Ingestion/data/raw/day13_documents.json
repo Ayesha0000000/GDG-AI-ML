@@ -1,0 +1,16 @@
+[
+ {
+  "doc_id": "doc1",
+  "title": "FastAPI",
+  "language": "en",
+  "source": "manual",
+  "text": "FastAPI is used to build APIs quickly with Python."
+ },
+ {
+  "doc_id": "doc2",
+  "title": "Qdrant",
+  "language": "en",
+  "source": "manual",
+  "text": "Qdrant is a vector database used for similarity search."
+ }
+]
